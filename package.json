@@ -1,0 +1,19 @@
+{
+  "name": "guidestar",
+  "description": "NodeJS Wrapper for the Guidestar API",
+  "version": "0.0.1",
+  "author": "Mike Carson <mikec@wizehive.com> (http://wizehive.com)",
+  "main": "./index.js",
+  "dependencies": {
+    "request": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "optionalDependencies": {},
+  "homepage": "http://github.com/Wizehive/guidestar",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Wizehive/guidestar.git"
+  }
+}
