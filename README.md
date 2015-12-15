@@ -1,6 +1,6 @@
 # JavaScript Guidestar API for node.js #
 
-A node.js module, which provides an object oriented wrapper for the Guidestar REST API.
+A node.js module, which provides an object oriented wrapper for the [Guidestar REST API](https://data.guidestar.org/).
 
 ## Installation ##
 
